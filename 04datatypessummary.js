@@ -38,3 +38,13 @@ const myFunction = function(){
 }
 
 console.log(typeof anotherId);
+
+
+
+// 2 types of memory 
+
+// 1) stack memory  (use in primitive)  data copy use 
+
+
+
+// 2) Heap memory (non primitive)  refrence of value
