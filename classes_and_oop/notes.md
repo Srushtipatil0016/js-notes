@@ -1,5 +1,6 @@
 # javascript and classes
 
+// js  -- behavior prototypal  
 ## OOP
 
 ## Object
